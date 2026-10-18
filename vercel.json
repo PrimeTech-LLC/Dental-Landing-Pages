@@ -1,5 +1,7 @@
 {
+  "buildCommand": "",
   "outputDirectory": "quick_care_dental_rawalpindi/dist",
+  "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
